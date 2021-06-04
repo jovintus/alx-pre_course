@@ -1,2 +1,1 @@
-# alx-pre_course
-# alx-pre_course
+Github is the power for best coding
